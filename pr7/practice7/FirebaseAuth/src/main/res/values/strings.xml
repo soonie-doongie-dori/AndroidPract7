@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="emailpassword_status_fmt" />
+    <string name="firebase_status_fmt" />
+    <string name="signed_out" />
+    <string name="auth_failed" />
+</resources>

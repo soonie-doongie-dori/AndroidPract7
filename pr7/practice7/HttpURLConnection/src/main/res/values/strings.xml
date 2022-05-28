@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">FirebaseAuth</string>
+    <string name="label_emailpassword" translatable="false">Email/Password Authentication</string>
+    <string name="desc_emailpassword" translatable="false">Use an email and password to authenticate with
+Firebase.</string>
+    <string name="hint_user_id" translatable="false">User ID</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="create_account" translatable="false">Create Account</string>
+    <string name="sign_out" translatable="false">Sign Out</string>
+    <string name="verify_email" translatable="false">Verify Email</string>
+    <string name="signed_in" translatable="false">Signed In</string>
+    <string name="signed_out" translatable="false">Signed Out</string>
+    <string name="auth_failed" translatable="false">Authentication failed</string>
+    <string name="firebase_status_fmt" translatable="false">Firebase UID: %s</string>
+    <string name="firebase_user_management" translatable="false">Firebase User Management</string>
+    <string name="emailpassword_status_fmt" translatable="false">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text" translatable="false">Email and Password</string>
+    <string name="error_sign_in_failed" translatable="false">Sign in failed, see logs for details.</string>
+</resources>
